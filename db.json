@@ -1,0 +1,66 @@
+{
+    "pedido": {
+        "status": true,
+        "info": "Solicitação efetuada com sucesso.",
+        "fatorcap": "  1,00",
+        "itens": [
+            {
+                "id": 1,
+                "ordem": "1",
+                "pedido": "29KKL5LG6G",
+                "quantidade": "21",
+                "preco": "18.23",
+                "codproduto": "1151001",
+                "data": "20230122",
+                "codbarra": "7891037169258",
+                "menorfracao": "1",
+                "um": "UN",
+                "mtpvenda": "3",
+                "descricao": "SHAMPOO DIMENSION 2X1 200ML OLEOSO",
+                "categoria": "0102",
+                "desccategoria": "CABELO - 2EM1/3EM1/MEN",
+                "estoque": "2",
+                "grade": "24",
+                "extra": "0",
+                "cm_ocupado": "19.5",
+                "frentes": "3",
+                "estoquedistr": "1926",
+                "ultimopedido": "20230111",
+                "qtdultimopedido": "3",
+                "faturado": "S",
+                "variante": "OLEOSO",
+                "urlImg": "http://midias.guarany.com.br/jsleiman/private/fotos/small/7891037169258_1.png"
+            },
+            {
+                "id": 2,
+                "ordem": "2",
+                "pedido": "29KKL5LG6G",
+                "quantidade": "39",
+                "preco": "21.25",
+                "codproduto": "0416901",
+                "data": "20230122",
+                "codbarra": "7891150060968",
+                "menorfracao": "1",
+                "um": "UN",
+                "mtpvenda": "3",
+                "descricao": "SHAMPOO CLEAR ANTICASPA MEN LV400ML PG330ML ICE COOL MENTHOL",
+                "categoria": "0103",
+                "desccategoria": "CABELO - ANTICASPA",
+                "estoque": "1",
+                "grade": "39",
+                "extra": "0",
+                "cm_ocupado": "6",
+                "frentes": "1",
+                "estoquedistr": "6267",
+                "ultimopedido": "20221221",
+                "qtdultimopedido": "6",
+                "faturado": "S",
+                "variante": "ICE COOL",
+                "urlImg": "http://midias.guarany.com.br/jsleiman/private/fotos/small/7891150060968_1.png"
+            },
+            {
+                "id": 3
+            }
+        ]
+    }
+}
